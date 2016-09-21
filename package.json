@@ -1,0 +1,23 @@
+{
+  "name": "references-as-a-service",
+  "version": "0.1.0",
+  "description": "An API for personal references",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yi-jiayu/references-as-a-service.git"
+  },
+  "keywords": [
+    "references",
+    "api"
+  ],
+  "author": "Jiayu Yi <yi-jiayu@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yi-jiayu/references-as-a-service/issues"
+  },
+  "homepage": "https://github.com/yi-jiayu/references-as-a-service#readme"
+}
